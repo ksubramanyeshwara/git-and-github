@@ -8,6 +8,26 @@ Practical reference for learning version control with Git and collaboration usin
 - Git file lifecycle (Working Directory → Staging → Local Repo → Remote Repo)
 - Basic, intermediate, and advanced Git commands
 - Branching & merging
-- Working with GitHub (push, pull, clone, fork, PRs)
 - Fixing common mistakes (reset, revert, stash)
+- Working with GitHub (push, pull, clone, fork, PRs)
 
+## 📂 Repository Structure
+
+This repository is organized into the following sections:
+
+- [Setup](./setup.md)
+- [Basics](./01-basics/basics.md)
+
+<!-- ## 🤝 Contributing
+
+## 📄 License -->
+
+## 🌐 Connect & Follow My Journey
+
+- [X](https://x.com/ksubramanyaa)
+- [LinkedIn](https://www.linkedin.com/in/ksubramanyeshwara)
+- [Peerlist](https://peerlist.io/subramaneshwara)
+
+## 💁‍♂️ Support
+
+Found this repository helpful ? Give it a ⭐️
