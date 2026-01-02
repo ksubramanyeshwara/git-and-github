@@ -1,4 +1,5 @@
 header
 sidebar one
 sidebar two
+sidebar three
 footer
