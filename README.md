@@ -26,12 +26,21 @@ This repository is organized into the following sections:
 
 ## 📄 License -->
 
-## 🌐 Connect & Follow My Journey
+## 📫 Connect With Me
 
-- [X](https://x.com/ksubramanyaa)
-- [LinkedIn](https://www.linkedin.com/in/ksubramanyeshwara)
-- [Peerlist](https://peerlist.io/subramaneshwara)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ksubramanyeshwara)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ksubramanyaa)
+[![Peerlist](https://img.shields.io/badge/Peerlist-46923c?style=for-the-badge&logo=peerlist&logoColor=white)](https://peerlist.io/subramaneshwara)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ksubramanyeshwara@gmail.com)
+
+</div>
 
 ## 💁‍♂️ Support
 
-Found this repository helpful ? Give it a ⭐️
+<div align="center">
+
+Found this repo helpful ? Give it a ⭐️
+
+</div>

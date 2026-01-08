@@ -73,6 +73,33 @@ Restore the files previous state without altering commit history.
 
 ## Golden rules
 
-- Unstage / discard files → git restore
-- Fix local commits (not pushed) → git reset
-- Undo pushed commits → git revert
+- Unstage / discard files: git restore
+- Fix local commits (not pushed): git reset
+- Undo pushed commits: git revert
+
+## Amend
+
+- Change the last commit message
+- Add missed files to the last commit
+- Remove files from the last commit
+- Fix small mistakes without creating a new commit
+
+`git commit --amend`
+
+### When you amend:
+
+- Git creates a new commit
+- Old commit is replaced
+- Commit hash changes
+
+```
+Before: A → B
+After:  A → B'
+```
+> ❌ Do NOT amend a pushed commit (unless you know what you’re doing). If you want to then you need to force push it
+
+### When SHOULD you use git amend?
+
+- Fix typo in commit message
+- Add missed files
+- Clean commit before pushing
