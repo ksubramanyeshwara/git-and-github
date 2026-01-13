@@ -20,7 +20,8 @@ This repository is organized into the following sections:
 - [Branch, Merge, Merge Conflicts](./02-branch-marge-conflicts/README.md)
 - [Diff, Stash](./03-diff-stash/README.md)
 - [Rebase, Rebase Conflicts](./04-rebase-conflicts/README.md)
-- [Restore, Reset, Revert](./05-restore-reset-revert/README.md)
+- [Restore, Reset, Revert, Ammend](./05-restore-reset-revert/README.md)
+- [Working with Remotes](./06-working-with-remote/README.md)
 
 <!-- ## 🤝 Contributing
 
