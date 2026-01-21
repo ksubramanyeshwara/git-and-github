@@ -22,6 +22,7 @@ This repository is organized into the following sections:
 - [Rebase, Rebase Conflicts](./04-rebase-conflicts/README.md)
 - [Restore, Reset, Revert, Ammend](./05-restore-reset-revert/README.md)
 - [Working with Remotes](./06-working-with-remote/README.md)
+- [Advanced Workflow](./07-advanced-workflow/README.md)
 
 <!-- ## 🤝 Contributing
 
